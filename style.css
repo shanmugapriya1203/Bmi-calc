@@ -1,0 +1,47 @@
+.container{
+    width: 200px;
+    height: 525px;
+    /* margin-left: 350px; */
+    margin-top: 60px;
+    background-color: bisque;
+    padding-left: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+p{
+    font-size: 30px;
+}
+
+#weight-guide{
+    margin-left: 75px;
+    margin-top: 25px;
+}
+#result{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: black;
+}
+
+#btn{
+    width: 150px;
+    height: 45px;
+  
+ 
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
+span{
+    font-size: 20px;
+}
+bmi{
+    font-size: 30px;
+
+}
